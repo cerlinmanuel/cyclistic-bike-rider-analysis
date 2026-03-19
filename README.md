@@ -50,6 +50,10 @@ After cleaning, I combined all datasets using **Power Query** due to Excel row l
 
 Finally, I used **Power BI** to create DAX measures and build the interactive dashboard.
 
+## Dashboard
+
+![Cyclistic Dashboard](cyclistic_dashboard.png)
+
 ---
 
 ## Key Findings
@@ -70,7 +74,4 @@ There is a clear difference between casual and member riders.
 Members tend to ride more frequently during the week and for shorter periods (around 14 minutes), likely for daily routines such as going to the gym. However, casual riders are more active on weekends and ride for longer periods (around 1 hour), which suggests leisure or tourism activities.
 
 These patterns show that converting casual riders into members could reduce maintenance needs and increase overall profitability, while also improving bike availability.
-
-## Dashboard
-
 
