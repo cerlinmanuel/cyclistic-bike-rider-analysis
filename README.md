@@ -16,7 +16,10 @@ From a business perspective, the goal is to identify patterns in rider behavior 
 
 ## Data Preparation
 
-The data is publicly available from the Google Data Analytics Certificate. It covers the period from April 2019 to March 2020.
+The data is publicly available from the Google Data Analytics Certificate. For this analysis, I selected the previous 12 months of data (April 2019 to March 2020).
+
+The original dataset link:
+https://divvy-tripdata.s3.amazonaws.com/index.html
 
 I explored the data to understand the variables and overall structure, making sure everything was accurate and consistent. The project is based on four quarters:
 
