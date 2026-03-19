@@ -1,6 +1,6 @@
 ## Project Overview
 
-Cyclistic is a bicycle-sharing company operating in Chicago, with more than 5,800 bicycles and 600 docking stations.
+Cyclistic is a fictitious bicycle-sharing company, operating in Chicago, with more than 5,800 bicycles and 600 docking stations.
 
 The objective of this project is to answer the question:  
 **How do annual members and casual riders use Cyclistic bikes differently?**
@@ -16,7 +16,7 @@ From a business perspective, the goal is to identify patterns in rider behavior 
 
 ## Data Preparation
 
-The data is publicly available and organized into fields (columns) and records (rows). It covers the period from April 2019 to March 2020.
+The data is publicly available from the Google Data Analytics Certificate. It covers the period from April 2019 to March 2020.
 
 I explored the data to understand the variables and overall structure, making sure everything was accurate and consistent. The project is based on four quarters:
 
