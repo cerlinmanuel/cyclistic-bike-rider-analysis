@@ -1,27 +1,26 @@
 ## Project Overview
 
-Cyclistic is a fictitious bicycle-sharing company, operating in Chicago, with more than 5,800 bicycles and 600 docking stations.
+Introduction
 
-The objective of this project is to answer the question:  
+Cyclistic is a bicycle-sharing company operating in Chicago, with more than 5,800 bicycles and 600 docking stations. For the company's continued growth, the stakeholders are interested in understanding customer behavior. The purpose is to provide a detailed analysis to identify patterns in both Casual and Member riders to increase the number of memberships. 
+
+The goal of this project is to answer the question:
+
+The goal of this project is to answer the question:
 **How do annual members and casual riders use Cyclistic bikes differently?**
 
-Before that, here is how each type of rider is defined:
+Before continuing, let's define each type of rider.
 
-- **Member:** a person who uses the bikes frequently and pays an annual membership for unlimited access.
-- **Casual:** a person who uses the bikes for a short period, such as a single ride or a day pass. These are usually tourists or occasional users.
-
-From a business perspective, the goal is to identify patterns in rider behavior and find ways to convert casual riders into annual members.
+- **Member:** a person who uses the bikes frequently. This type of rider pays an annual membership fee to have access to the bikes at any time.
+- **Casual:** a person who uses the bikes for a specific period. Generally, these people are tourists or occasional users who don't use the bikes often. They pay for short periods, such as a single ride or a day pass.
 
 ---
 
-## Data Preparation
+## Data source:
 
-The data is publicly available from the Google Data Analytics Certificate. For this analysis, I selected the previous 12 months of data (April 2019 to March 2020).
-
-The original dataset link:
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
-I explored the data to understand the variables and overall structure, making sure everything was accurate and consistent. The project is based on four quarters:
+For this analysis, I selected the previous 12 months of data (April 2019 to March 2020). The data analyzed covers the same period. I explored the data to understand all variables and the overall structure, making sure everything was accurate and consistent. The project is based on four quarters:
 
 - Q2 2019 (April–June)  
 - Q3 2019 (July–August)  
@@ -29,7 +28,7 @@ I explored the data to understand the variables and overall structure, making su
 - Q1 2020 (January–March)
 
 ### Observations
-- In Q2 2019, the last recorded date is June 27th, so three days are missing  
+- In Q2 2019, the last recorded date is June 27th (three days are missing)  
 - There is no data available for September  
 - A total of 3,228,091 trips were analyzed  
 
@@ -74,7 +73,6 @@ Finally, I used **Power BI** to create DAX measures and build the interactive da
 
 There is a clear difference between casual and member riders.
 
-Members tend to ride more frequently during the week and for shorter periods (around 14 minutes), likely for daily routines such as going to the gym. However, casual riders are more active on weekends and ride for longer periods (around 1 hour), which suggests leisure or tourism activities.
+Members ride more often from Monday to Friday and for shorter periods of time, with an average of 14 minutes per ride, generally for daily routines such as going to work or the gym. However, casual riders use the bikes more often on weekends, with an average of 1 hour per ride, which looks more like leisure or tourism activities. Increasing memberships has a positive impact on the company. With more members, there is less maintenance required for the bikes and more availability for future users.
 
-These patterns show that converting casual riders into members could reduce maintenance needs and increase overall profitability, while also improving bike availability.
 
