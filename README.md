@@ -75,6 +75,6 @@ Finally, I used **Power BI** to create DAX measures and build the interactive da
 
 There is a clear difference between casual and member riders.
 
-Members ride more often from Monday to Friday and for shorter periods of time, with an average of 14 minutes per ride, generally for daily routines such as going to work or the gym. However, casual riders use the bikes more often on weekends, with an average of 1 hour per ride, which looks more like leisure or tourism activities. Increasing memberships has a positive impact on the company. With more members, there is less maintenance required for the bikes and more availability for future users.
+Members ride more often from Monday to Friday and for shorter periods of time, with an average of 14 minutes per ride, generally for daily routines such as going to work or the gym. However, casual riders use the bikes more often on weekends, with an average of 1 hour per ride, which looks more like leisure or tourism activities.
 
 
