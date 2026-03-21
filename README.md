@@ -54,7 +54,9 @@ Finally, I used **Power BI** to create DAX measures and build the interactive da
 
 ## Dashboard
 
-![Cyclistic Dashboard](cyclistic_dashboard.png)
+![cyclistic_bike_project_dashboard](https://github.com/user-attachments/assets/b0b8660f-831d-42f0-ac11-7c1c43a588cb)
+![cyclistic_bike_project_dashboard_casual](https://github.com/user-attachments/assets/80706f54-91b8-4294-854a-0d4708b00f78)
+![cyclistic_bike_project_dashboard_member](https://github.com/user-attachments/assets/cc9edf57-ffdf-4b53-b05c-526bdc888366)
 
 ---
 
