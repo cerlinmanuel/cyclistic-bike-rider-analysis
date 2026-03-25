@@ -5,8 +5,6 @@ Introduction
 Cyclistic is a bicycle-sharing company operating in Chicago, with more than 5,800 bicycles and 600 docking stations. For the company's continued growth, the stakeholders are interested in understanding customer behavior. The purpose is to provide a detailed analysis to identify patterns in both Casual and Member riders to increase the number of memberships. 
 
 The goal of this project is to answer the question:
-
-The goal of this project is to answer the question:
 **How do annual members and casual riders use Cyclistic bikes differently?**
 
 Before continuing, let's define each type of rider.
